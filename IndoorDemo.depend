@@ -1,0 +1,4200 @@
+# depslib dependency file v1.0
+1535713745 source:d:\project\indoordemo\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<random>
+	<vector>
+	<windows.h>
+	"ErEnvmap.h"
+
+1471499560 c:\glfw-3.2.1\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<vulkan/vulkan.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1501500339 c:\glew-2.1.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1534606863 d:\project\indoordemo\include\shader.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<GL/glew.h>
+	<glm/glm.hpp>
+
+1534523665 source:d:\project\indoordemo\src\shader.cpp
+	"Shader.h"
+
+1534516415 d:\project\indoordemo\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1534522289 source:d:\project\indoordemo\src\stb_image.cpp
+	"stb_image.h"
+
+1526974782 c:\glm\glm\glm.hpp
+	"detail/_fixes.hpp"
+	"detail/setup.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1464685461 c:\glm\glm\detail\_fixes.hpp
+	<cmath>
+
+1525695815 c:\glm\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	"../simd/platform.h"
+
+1525695815 c:\glm\glm\simd\platform.h
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<popcntintrin.h>
+	<nmmintrin.h>
+	<smmintrin.h>
+	<tmmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1525695782 c:\glm\glm\fwd.hpp
+	"detail/setup.hpp"
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1525695782 c:\glm\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1525695782 c:\glm\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1525695782 c:\glm\glm\detail\type_vec.hpp
+	"qualifier.hpp"
+	"type_int.hpp"
+	"compute_vector_relational.hpp"
+
+1525695782 c:\glm\glm\detail\qualifier.hpp
+	"setup.hpp"
+
+1525695782 c:\glm\glm\detail\compute_vector_relational.hpp
+	"setup.hpp"
+	<cstring>
+	<limits>
+
+1525695782 c:\glm\glm\detail\type_mat.hpp
+	"qualifier.hpp"
+
+1525695782 c:\glm\glm\vec2.hpp
+	"detail/setup.hpp"
+	"detail/type_vec2.hpp"
+
+1525695782 c:\glm\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1525695782 c:\glm\glm\detail\_swizzle.hpp
+
+1525695782 c:\glm\glm\detail\_swizzle_func.hpp
+
+1525695782 c:\glm\glm\detail\type_vec2.inl
+
+1525695782 c:\glm\glm\vec3.hpp
+	"detail/setup.hpp"
+	"detail/type_vec3.hpp"
+
+1525695782 c:\glm\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1525695782 c:\glm\glm\detail\type_vec3.inl
+
+1525695782 c:\glm\glm\vec4.hpp
+	"detail/setup.hpp"
+	"detail/type_vec4.hpp"
+
+1525695782 c:\glm\glm\detail\type_vec4.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1525695782 c:\glm\glm\detail\type_vec4.inl
+	"type_vec4_simd.inl"
+
+1525695782 c:\glm\glm\detail\type_vec4_simd.inl
+
+1525695782 c:\glm\glm\mat2x2.hpp
+	"detail/setup.hpp"
+	"detail/type_mat2x2.hpp"
+
+1525695782 c:\glm\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1525695782 c:\glm\glm\detail\type_mat2x2.inl
+	"../matrix.hpp"
+
+1525695782 c:\glm\glm\matrix.hpp
+	"detail/qualifier.hpp"
+	"detail/setup.hpp"
+	"detail/type_mat.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"detail/func_matrix.inl"
+
+1525695782 c:\glm\glm\mat2x3.hpp
+	"detail/setup.hpp"
+	"detail/type_mat2x3.hpp"
+
+1525695782 c:\glm\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1525695782 c:\glm\glm\detail\type_mat2x3.inl
+
+1525695782 c:\glm\glm\mat2x4.hpp
+	"detail/setup.hpp"
+	"detail/type_mat2x4.hpp"
+
+1525695782 c:\glm\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1525695782 c:\glm\glm\detail\type_mat2x4.inl
+
+1525695782 c:\glm\glm\mat3x2.hpp
+	"detail/setup.hpp"
+	"detail/type_mat3x2.hpp"
+
+1525695782 c:\glm\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1525695782 c:\glm\glm\detail\type_mat3x2.inl
+
+1525695782 c:\glm\glm\mat3x3.hpp
+	"detail/setup.hpp"
+	"detail/type_mat3x3.hpp"
+
+1525695782 c:\glm\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1525695782 c:\glm\glm\detail\type_mat3x3.inl
+	"../matrix.hpp"
+
+1525695782 c:\glm\glm\mat3x4.hpp
+	"detail/setup.hpp"
+	"detail/type_mat3x4.hpp"
+
+1525695782 c:\glm\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1525695782 c:\glm\glm\detail\type_mat3x4.inl
+
+1525695782 c:\glm\glm\mat4x2.hpp
+	"detail/setup.hpp"
+	"detail/type_mat4x2.hpp"
+
+1525695782 c:\glm\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1525695782 c:\glm\glm\detail\type_mat4x2.inl
+
+1525695782 c:\glm\glm\mat4x3.hpp
+	"detail/setup.hpp"
+	"detail/type_mat4x3.hpp"
+
+1525695782 c:\glm\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1525695782 c:\glm\glm\detail\type_mat4x3.inl
+
+1525695782 c:\glm\glm\mat4x4.hpp
+	"detail/setup.hpp"
+	"detail/type_mat4x4.hpp"
+
+1525695782 c:\glm\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1525695782 c:\glm\glm\detail\type_mat4x4.inl
+	"../matrix.hpp"
+	"type_mat4x4_simd.inl"
+
+1464685462 c:\glm\glm\detail\type_mat4x4_simd.inl
+
+1525695782 c:\glm\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+	"func_matrix_simd.inl"
+
+1525695782 c:\glm\glm\geometric.hpp
+	"detail/type_vec3.hpp"
+	"detail/func_geometric.inl"
+
+1525695782 c:\glm\glm\detail\func_geometric.inl
+	"../exponential.hpp"
+	"../common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+	"func_geometric_simd.inl"
+
+1525695782 c:\glm\glm\exponential.hpp
+	"detail/type_vec1.hpp"
+	"detail/type_vec2.hpp"
+	"detail/type_vec3.hpp"
+	"detail/type_vec4.hpp"
+	<cmath>
+	"detail/func_exponential.inl"
+
+1531455841 c:\glm\glm\detail\type_vec1.hpp
+
+1525695782 c:\glm\glm\detail\func_exponential.inl
+	"../vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+	"func_exponential_simd.inl"
+
+1525695782 c:\glm\glm\vector_relational.hpp
+	"detail/qualifier.hpp"
+	"detail/setup.hpp"
+	"detail/func_vector_relational.inl"
+
+1525695782 c:\glm\glm\detail\func_vector_relational.inl
+	"compute_vector_relational.hpp"
+	"func_vector_relational_simd.inl"
+
+1464685461 c:\glm\glm\detail\func_vector_relational_simd.inl
+
+1525695782 c:\glm\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1525695782 c:\glm\glm\detail\func_exponential_simd.inl
+	"../simd/exponential.h"
+
+1464685462 c:\glm\glm\simd\exponential.h
+	"platform.h"
+
+1525695782 c:\glm\glm\common.hpp
+	"detail/setup.hpp"
+	"detail/qualifier.hpp"
+	"detail/type_int.hpp"
+	"detail/_fixes.hpp"
+	"detail/func_common.inl"
+
+1525709976 c:\glm\glm\detail\func_common.inl
+	"../vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+	"func_common_simd.inl"
+
+1525695782 c:\glm\glm\detail\func_common_simd.inl
+	"../simd/common.h"
+	<immintrin.h>
+
+1525695782 c:\glm\glm\simd\common.h
+	"platform.h"
+
+1525695782 c:\glm\glm\detail\func_geometric_simd.inl
+	"../simd/geometric.h"
+
+1525695782 c:\glm\glm\simd\geometric.h
+	"common.h"
+
+1525695782 c:\glm\glm\detail\func_matrix_simd.inl
+	"type_mat4x4.hpp"
+	"../geometric.hpp"
+	"../simd/matrix.h"
+	<cstring>
+
+1525695782 c:\glm\glm\simd\matrix.h
+	"geometric.h"
+
+1525695782 c:\glm\glm\trigonometric.hpp
+	"detail/setup.hpp"
+	"detail/qualifier.hpp"
+	"detail/func_trigonometric.inl"
+
+1525695782 c:\glm\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+	"func_trigonometric_simd.inl"
+
+1531455841 c:\glm\glm\detail\func_trigonometric_simd.inl
+
+1525695782 c:\glm\glm\packing.hpp
+	"detail/type_vec2.hpp"
+	"detail/type_vec4.hpp"
+	"detail/func_packing.inl"
+
+1525695782 c:\glm\glm\detail\func_packing.inl
+	"../common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+	"func_packing_simd.inl"
+
+1525695782 c:\glm\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1525695782 c:\glm\glm\detail\type_half.inl
+
+1464685461 c:\glm\glm\detail\func_packing_simd.inl
+
+1525695782 c:\glm\glm\integer.hpp
+	"detail/setup.hpp"
+	"detail/qualifier.hpp"
+	"common.hpp"
+	"vector_relational.hpp"
+	"detail/func_integer.inl"
+
+1525695782 c:\glm\glm\detail\func_integer.inl
+	"../ext/vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+	"func_integer_simd.inl"
+
+1526974782 c:\glm\glm\ext\vec1.hpp
+	"../fwd.hpp"
+	"../detail/type_vec.hpp"
+	"../detail/_swizzle.hpp"
+	"../detail/_swizzle_func.hpp"
+	<cstddef>
+	"../detail/type_vec1.inl"
+
+1525695782 c:\glm\glm\detail\type_vec1.inl
+
+1525695782 c:\glm\glm\detail\func_integer_simd.inl
+	"../simd/integer.h"
+
+1525695782 c:\glm\glm\simd\integer.h
+
+1525695782 c:\glm\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1525695782 c:\glm\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1525695782 c:\glm\glm\gtc\constants.inl
+	<limits>
+
+1525695782 c:\glm\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1534609676 source:d:\project\indoordemo\src\envsphere.cpp
+	"EnvSphere.h"
+
+1534606923 d:\project\indoordemo\include\envsphere.h
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/constants.hpp>
+	"Shader.h"
+	"stb_image.h"
+
+1535126391 source:d:\project\indoordemo\src\erenvmap.cpp
+	"ErEnvmap.h"
+
+1535357356 d:\project\indoordemo\include\erenvmap.h
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/constants.hpp>
+	"Shader.h"
+	"stb_image.h"
+
+1537000037 source:d:\cg\projects\indoordemo\src\erenvmap.cpp
+	"ErEnvmap.h"
+
+1535357356 d:\cg\projects\indoordemo\include\erenvmap.h
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/constants.hpp>
+	"Shader.h"
+	"stb_image.h"
+
+1534606863 d:\cg\projects\indoordemo\include\shader.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<GL/glew.h>
+	<glm/glm.hpp>
+
+1534516415 d:\cg\projects\indoordemo\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1534523665 source:d:\cg\projects\indoordemo\src\shader.cpp
+	"Shader.h"
+
+1534522289 source:d:\cg\projects\indoordemo\src\stb_image.cpp
+	"stb_image.h"
+
+1544531196 source:d:\cg\projects\indoordemo\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<random>
+	<algorithm>
+	<vector>
+	<windows.h>
+	"ErEnvmap.h"
+	"Model.h"
+
+1512940964 c:\assimp-4.1.0\include\assimp\importer.hpp
+	<assimp/types.h>
+
+1512940964 c:\assimp-4.1.0\include\assimp\types.h
+	<sys/types.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1512940964 c:\assimp-4.1.0\include\assimp\defs.h
+	<assimp/config.h>
+
+1539417900 c:\assimp-4.1.0\include\assimp\config.h
+
+1512940964 c:\assimp-4.1.0\include\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"defs.h"
+
+1512940964 c:\assimp-4.1.0\include\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"defs.h"
+	"./Compiler/poppack1.h"
+
+1512940964 c:\assimp-4.1.0\include\assimp\compiler\pushpack1.h
+
+1512940964 c:\assimp-4.1.0\include\assimp\compiler\poppack1.h
+
+1512940964 c:\assimp-4.1.0\include\assimp\color4.h
+	"defs.h"
+
+1512940964 c:\assimp-4.1.0\include\assimp\matrix3x3.h
+	"defs.h"
+
+1512940964 c:\assimp-4.1.0\include\assimp\matrix4x4.h
+	"vector3.h"
+	"defs.h"
+
+1512940964 c:\assimp-4.1.0\include\assimp\quaternion.h
+	"defs.h"
+
+1512940964 c:\assimp-4.1.0\include\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1512940964 c:\assimp-4.1.0\include\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1512940964 c:\assimp-4.1.0\include\assimp\color4.inl
+	"color4.h"
+
+1512940964 c:\assimp-4.1.0\include\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1512940964 c:\assimp-4.1.0\include\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1512940964 c:\assimp-4.1.0\include\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+
+1512940964 c:\assimp-4.1.0\include\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1512940964 c:\assimp-4.1.0\include\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1512940964 c:\assimp-4.1.0\include\assimp\mesh.h
+	"types.h"
+
+1512940964 c:\assimp-4.1.0\include\assimp\light.h
+	"types.h"
+
+1512940964 c:\assimp-4.1.0\include\assimp\camera.h
+	"types.h"
+
+1512940964 c:\assimp-4.1.0\include\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1512940964 c:\assimp-4.1.0\include\assimp\material.inl
+
+1512940964 c:\assimp-4.1.0\include\assimp\anim.h
+	<assimp/types.h>
+	<assimp/quaternion.h>
+
+1512940964 c:\assimp-4.1.0\include\assimp\metadata.h
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<string>
+
+1512940964 c:\assimp-4.1.0\include\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<sys/inttypes.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1512940964 c:\assimp-4.1.0\include\assimp\postprocess.h
+	"types.h"
+
+1544430015 source:d:\cg\projects\indoordemo\src\mesh.cpp
+	"Mesh.h"
+
+1540378189 d:\cg\projects\indoordemo\include\mesh.h
+	<stddef.h>
+	<vector>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<assimp/types.h>
+	"Shader.h"
+
+1544429944 source:d:\cg\projects\indoordemo\src\model.cpp
+	"Model.h"
+
+1540378208 d:\cg\projects\indoordemo\include\model.h
+	<map>
+	<stb_image.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"Mesh.h"
+
+1544430015 source:c:\users\pc\desktop\indoordemo\src\mesh.cpp
+	"Mesh.h"
+
+1540378189 c:\users\pc\desktop\indoordemo\include\mesh.h
+	<stddef.h>
+	<vector>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<assimp/types.h>
+	"Shader.h"
+
+1534606863 c:\users\pc\desktop\indoordemo\include\shader.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<GL/glew.h>
+	<glm/glm.hpp>
+
+1544429944 source:c:\users\pc\desktop\indoordemo\src\model.cpp
+	"Model.h"
+
+1540378208 c:\users\pc\desktop\indoordemo\include\model.h
+	<map>
+	<stb_image.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"Mesh.h"
+
+1534516415 c:\users\pc\desktop\indoordemo\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1534523665 source:c:\users\pc\desktop\indoordemo\src\shader.cpp
+	"Shader.h"
+
+1534522289 source:c:\users\pc\desktop\indoordemo\src\stb_image.cpp
+	"stb_image.h"
+
+1570517049 source:c:\users\pc\desktop\indoordemo\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<random>
+	<algorithm>
+	<vector>
+	<windows.h>
+	"ErEnvmap.h"
+	"Model.h"
+
+1535357356 c:\users\pc\desktop\indoordemo\include\erenvmap.h
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/constants.hpp>
+	"Shader.h"
+	"stb_image.h"
+
+1544430016 source:f:\indoor_op\indoordemo\src\mesh.cpp
+	"Mesh.h"
+
+1540378190 f:\indoor_op\indoordemo\include\mesh.h
+	<stddef.h>
+	<vector>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<assimp/types.h>
+	"Shader.h"
+
+1534606864 f:\indoor_op\indoordemo\include\shader.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<GL/glew.h>
+	<glm/glm.hpp>
+
+1544429946 source:f:\indoor_op\indoordemo\src\model.cpp
+	"Model.h"
+
+1540378210 f:\indoor_op\indoordemo\include\model.h
+	<map>
+	<stb_image.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"Mesh.h"
+
+1534516416 f:\indoor_op\indoordemo\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1534523666 source:f:\indoor_op\indoordemo\src\shader.cpp
+	"Shader.h"
+
+1534522290 source:f:\indoor_op\indoordemo\src\stb_image.cpp
+	"stb_image.h"
+
+1407804932 f:\indoor_op\indoordemo\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1451334827 f:\indoor_op\indoordemo\include\gl\glu.h
+	<GL/gl.h>
+
+1451334827 f:\indoor_op\indoordemo\include\gl\gl.h
+	<windows.h>
+	<stddef.h>
+
+1420280585 f:\indoor_op\indoordemo\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1420280585 f:\indoor_op\indoordemo\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1424013748 f:\indoor_op\indoordemo\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\precision.hpp
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\_swizzle.hpp
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\_swizzle_func.hpp
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_vec2.inl
+
+1420280585 f:\indoor_op\indoordemo\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_vec3.inl
+
+1420280585 f:\indoor_op\indoordemo\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_vec4.inl
+	"type_vec4_sse2.inl"
+	"type_vec4_avx.inl"
+	"type_vec4_avx2.inl"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\type_vec4_sse2.inl
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\type_vec4_avx.inl
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\type_vec4_avx2.inl
+
+1420280585 f:\indoor_op\indoordemo\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat2x2.inl
+
+1420280585 f:\indoor_op\indoordemo\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat2x3.inl
+
+1420280585 f:\indoor_op\indoordemo\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat2x4.inl
+
+1420280585 f:\indoor_op\indoordemo\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat3x2.inl
+
+1420280585 f:\indoor_op\indoordemo\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat3x3.inl
+
+1420280585 f:\indoor_op\indoordemo\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat3x4.inl
+
+1420280585 f:\indoor_op\indoordemo\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat4x2.inl
+
+1420280585 f:\indoor_op\indoordemo\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat4x3.inl
+
+1420280585 f:\indoor_op\indoordemo\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_mat4x4.inl
+
+1420280585 f:\indoor_op\indoordemo\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1424001528 f:\indoor_op\indoordemo\include\glm\detail\type_vec1.inl
+
+1420280585 f:\indoor_op\indoordemo\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\func_vector_relational.inl
+	<limits>
+
+1420280585 f:\indoor_op\indoordemo\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1423994623 f:\indoor_op\indoordemo\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1420280585 f:\indoor_op\indoordemo\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1423516826 f:\indoor_op\indoordemo\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1423516826 f:\indoor_op\indoordemo\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\type_half.inl
+
+1420280585 f:\indoor_op\indoordemo\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1420280585 f:\indoor_op\indoordemo\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\types.h
+	<sys/types.h>
+	<memory.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\defs.h
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\compiler\pushpack1.h
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\compiler\poppack1.h
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\matrix4x4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\quaternion.h
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\color4.inl
+	"color4.h"
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+	<math.h>
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\config.h
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\mesh.h
+	"types.h"
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\light.h
+	"types.h"
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\camera.h
+	"types.h"
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\material.inl
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<string>
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<wchar.h>
+
+1402765209 f:\indoor_op\indoordemo\include\assimp\postprocess.h
+	"types.h"
+
+1574672172 source:f:\indoor_op\indoordemo\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<random>
+	<algorithm>
+	<vector>
+	<windows.h>
+	"ErEnvmap.h"
+	"Model.h"
+
+1555371630 f:\indoor_op\indoordemo\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1451334827 f:\indoor_op\indoordemo\include\gl\glcorearb.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1451334827 f:\indoor_op\indoordemo\include\gl\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1535357358 f:\indoor_op\indoordemo\include\erenvmap.h
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/constants.hpp>
+	"Shader.h"
+	"stb_image.h"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1420280585 f:\indoor_op\indoordemo\include\glm\gtc\constants.inl
+	<limits>
+
+1420829383 f:\indoor_op\indoordemo\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1576155850 source:f:\sg_demo\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<random>
+	<algorithm>
+	<vector>
+	<windows.h>
+	"ErEnvmap.h"
+	"Model.h"
+
+1407804932 f:\sg_demo\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1451334827 f:\sg_demo\include\gl\glu.h
+	<GL/gl.h>
+
+1451334827 f:\sg_demo\include\gl\gl.h
+	<windows.h>
+	<stddef.h>
+
+1555371630 f:\sg_demo\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1451334827 f:\sg_demo\include\gl\glcorearb.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1451334827 f:\sg_demo\include\gl\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1535357358 f:\sg_demo\include\erenvmap.h
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/constants.hpp>
+	"Shader.h"
+	"stb_image.h"
+
+1420280585 f:\sg_demo\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1420280585 f:\sg_demo\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1420280585 f:\sg_demo\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1420280585 f:\sg_demo\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1424013748 f:\sg_demo\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1420280585 f:\sg_demo\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1420280585 f:\sg_demo\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1420280585 f:\sg_demo\include\glm\detail\precision.hpp
+
+1420280585 f:\sg_demo\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1424001528 f:\sg_demo\include\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1420280585 f:\sg_demo\include\glm\detail\_swizzle.hpp
+
+1420280585 f:\sg_demo\include\glm\detail\_swizzle_func.hpp
+
+1424001528 f:\sg_demo\include\glm\detail\type_vec4.inl
+	"type_vec4_sse2.inl"
+	"type_vec4_avx.inl"
+	"type_vec4_avx2.inl"
+
+1420280585 f:\sg_demo\include\glm\detail\type_vec4_sse2.inl
+
+1420280585 f:\sg_demo\include\glm\detail\type_vec4_avx.inl
+
+1420280585 f:\sg_demo\include\glm\detail\type_vec4_avx2.inl
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat4x4.inl
+
+1420280585 f:\sg_demo\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1424001528 f:\sg_demo\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1424001528 f:\sg_demo\include\glm\detail\type_vec2.inl
+
+1420280585 f:\sg_demo\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1424001528 f:\sg_demo\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1424001528 f:\sg_demo\include\glm\detail\type_vec3.inl
+
+1420280585 f:\sg_demo\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1420280585 f:\sg_demo\include\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1420280585 f:\sg_demo\include\glm\gtc\constants.inl
+	<limits>
+
+1420829383 f:\sg_demo\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1420280585 f:\sg_demo\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1420280585 f:\sg_demo\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1420280585 f:\sg_demo\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1420280585 f:\sg_demo\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1424001528 f:\sg_demo\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1424001528 f:\sg_demo\include\glm\detail\type_vec1.inl
+
+1420280585 f:\sg_demo\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+
+1420280585 f:\sg_demo\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1420280585 f:\sg_demo\include\glm\detail\func_vector_relational.inl
+	<limits>
+
+1420280585 f:\sg_demo\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1420280585 f:\sg_demo\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1420280585 f:\sg_demo\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1423994623 f:\sg_demo\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1420280585 f:\sg_demo\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1420280585 f:\sg_demo\include\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1420280585 f:\sg_demo\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1420280585 f:\sg_demo\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1420280585 f:\sg_demo\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1420280585 f:\sg_demo\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat2x2.inl
+
+1420280585 f:\sg_demo\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat2x3.inl
+
+1420280585 f:\sg_demo\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat2x4.inl
+
+1420280585 f:\sg_demo\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat3x2.inl
+
+1420280585 f:\sg_demo\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat3x3.inl
+
+1420280585 f:\sg_demo\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat3x4.inl
+
+1420280585 f:\sg_demo\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat4x2.inl
+
+1420280585 f:\sg_demo\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1424001528 f:\sg_demo\include\glm\detail\type_mat4x3.inl
+
+1420280585 f:\sg_demo\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1534606864 f:\sg_demo\include\shader.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<GL/glew.h>
+	<glm/glm.hpp>
+
+1420280585 f:\sg_demo\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1420280585 f:\sg_demo\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1420280585 f:\sg_demo\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1420280585 f:\sg_demo\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1423516826 f:\sg_demo\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1423516826 f:\sg_demo\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1420280585 f:\sg_demo\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1420280585 f:\sg_demo\include\glm\detail\type_half.inl
+
+1420280585 f:\sg_demo\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1420280585 f:\sg_demo\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1420280585 f:\sg_demo\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1420280585 f:\sg_demo\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1534516416 f:\sg_demo\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1540378210 f:\sg_demo\include\model.h
+	<map>
+	<stb_image.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"Mesh.h"
+
+1402765209 f:\sg_demo\include\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1402765209 f:\sg_demo\include\assimp\types.h
+	<sys/types.h>
+	<memory.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1402765209 f:\sg_demo\include\assimp\defs.h
+
+1402765209 f:\sg_demo\include\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 f:\sg_demo\include\assimp\compiler\pushpack1.h
+
+1402765209 f:\sg_demo\include\assimp\compiler\poppack1.h
+
+1402765209 f:\sg_demo\include\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 f:\sg_demo\include\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 f:\sg_demo\include\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 f:\sg_demo\include\assimp\matrix4x4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 f:\sg_demo\include\assimp\quaternion.h
+
+1402765209 f:\sg_demo\include\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1402765209 f:\sg_demo\include\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1402765209 f:\sg_demo\include\assimp\color4.inl
+	"color4.h"
+
+1402765209 f:\sg_demo\include\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1402765209 f:\sg_demo\include\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1402765209 f:\sg_demo\include\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+	<math.h>
+
+1402765209 f:\sg_demo\include\assimp\config.h
+
+1402765209 f:\sg_demo\include\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1402765209 f:\sg_demo\include\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 f:\sg_demo\include\assimp\mesh.h
+	"types.h"
+
+1402765209 f:\sg_demo\include\assimp\light.h
+	"types.h"
+
+1402765209 f:\sg_demo\include\assimp\camera.h
+	"types.h"
+
+1402765209 f:\sg_demo\include\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1402765209 f:\sg_demo\include\assimp\material.inl
+
+1402765209 f:\sg_demo\include\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1402765209 f:\sg_demo\include\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<string>
+
+1402765209 f:\sg_demo\include\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<wchar.h>
+
+1402765209 f:\sg_demo\include\assimp\postprocess.h
+	"types.h"
+
+1540378190 f:\sg_demo\include\mesh.h
+	<stddef.h>
+	<vector>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<assimp/types.h>
+	"Shader.h"
+
+1544430016 source:f:\sg_demo\src\mesh.cpp
+	"Mesh.h"
+
+1544429946 source:f:\sg_demo\src\model.cpp
+	"Model.h"
+
+1534523666 source:f:\sg_demo\src\shader.cpp
+	"Shader.h"
+
+1534522290 source:f:\sg_demo\src\stb_image.cpp
+	"stb_image.h"
+
+1576155850 source:d:\sg_demo\sg_demo\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<random>
+	<algorithm>
+	<vector>
+	<windows.h>
+	"ErEnvmap.h"
+	"Model.h"
+
+1407804932 d:\sg_demo\sg_demo\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1451334827 d:\sg_demo\sg_demo\include\gl\glu.h
+	<GL/gl.h>
+
+1451334827 d:\sg_demo\sg_demo\include\gl\gl.h
+	<windows.h>
+	<stddef.h>
+
+1555371630 d:\sg_demo\sg_demo\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1451334827 d:\sg_demo\sg_demo\include\gl\glcorearb.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1451334827 d:\sg_demo\sg_demo\include\gl\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1535357358 d:\sg_demo\sg_demo\include\erenvmap.h
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/constants.hpp>
+	"Shader.h"
+	"stb_image.h"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1424013748 d:\sg_demo\sg_demo\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\precision.hpp
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\_swizzle.hpp
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\_swizzle_func.hpp
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_vec4.inl
+	"type_vec4_sse2.inl"
+	"type_vec4_avx.inl"
+	"type_vec4_avx2.inl"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\type_vec4_sse2.inl
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\type_vec4_avx.inl
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\type_vec4_avx2.inl
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat4x4.inl
+
+1420280585 d:\sg_demo\sg_demo\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_vec2.inl
+
+1420280585 d:\sg_demo\sg_demo\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_vec3.inl
+
+1420280585 d:\sg_demo\sg_demo\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\gtc\constants.inl
+	<limits>
+
+1420829383 d:\sg_demo\sg_demo\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_vec1.inl
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\func_vector_relational.inl
+	<limits>
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1423994623 d:\sg_demo\sg_demo\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1420280585 d:\sg_demo\sg_demo\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1420280585 d:\sg_demo\sg_demo\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat2x2.inl
+
+1420280585 d:\sg_demo\sg_demo\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat2x3.inl
+
+1420280585 d:\sg_demo\sg_demo\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat2x4.inl
+
+1420280585 d:\sg_demo\sg_demo\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat3x2.inl
+
+1420280585 d:\sg_demo\sg_demo\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat3x3.inl
+
+1420280585 d:\sg_demo\sg_demo\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat3x4.inl
+
+1420280585 d:\sg_demo\sg_demo\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat4x2.inl
+
+1420280585 d:\sg_demo\sg_demo\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1424001528 d:\sg_demo\sg_demo\include\glm\detail\type_mat4x3.inl
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1534606864 d:\sg_demo\sg_demo\include\shader.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<GL/glew.h>
+	<glm/glm.hpp>
+
+1420280585 d:\sg_demo\sg_demo\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1423516826 d:\sg_demo\sg_demo\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1423516826 d:\sg_demo\sg_demo\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\type_half.inl
+
+1420280585 d:\sg_demo\sg_demo\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1420280585 d:\sg_demo\sg_demo\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1534516416 d:\sg_demo\sg_demo\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1540378210 d:\sg_demo\sg_demo\include\model.h
+	<map>
+	<stb_image.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"Mesh.h"
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\types.h
+	<sys/types.h>
+	<memory.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\defs.h
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\compiler\pushpack1.h
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\compiler\poppack1.h
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\matrix4x4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\quaternion.h
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\color4.inl
+	"color4.h"
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+	<math.h>
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\config.h
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\mesh.h
+	"types.h"
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\light.h
+	"types.h"
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\camera.h
+	"types.h"
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\material.inl
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<string>
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<wchar.h>
+
+1402765209 d:\sg_demo\sg_demo\include\assimp\postprocess.h
+	"types.h"
+
+1540378190 d:\sg_demo\sg_demo\include\mesh.h
+	<stddef.h>
+	<vector>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<assimp/types.h>
+	"Shader.h"
+
+1544430016 source:d:\sg_demo\sg_demo\src\mesh.cpp
+	"Mesh.h"
+
+1544429946 source:d:\sg_demo\sg_demo\src\model.cpp
+	"Model.h"
+
+1534523666 source:d:\sg_demo\sg_demo\src\shader.cpp
+	"Shader.h"
+
+1534522290 source:d:\sg_demo\sg_demo\src\stb_image.cpp
+	"stb_image.h"
+
+1544430016 source:d:\lightestimate\sg_demo\src\mesh.cpp
+	"Mesh.h"
+
+1540378190 d:\lightestimate\sg_demo\include\mesh.h
+	<stddef.h>
+	<vector>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<assimp/types.h>
+	"Shader.h"
+
+1407804932 d:\lightestimate\sg_demo\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1451334827 d:\lightestimate\sg_demo\include\gl\glu.h
+	<GL/gl.h>
+
+1451334827 d:\lightestimate\sg_demo\include\gl\gl.h
+	<windows.h>
+	<stddef.h>
+
+1420280585 d:\lightestimate\sg_demo\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1420280585 d:\lightestimate\sg_demo\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1424013748 d:\lightestimate\sg_demo\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\precision.hpp
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\_swizzle.hpp
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\_swizzle_func.hpp
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_vec2.inl
+
+1420280585 d:\lightestimate\sg_demo\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_vec3.inl
+
+1420280585 d:\lightestimate\sg_demo\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_vec4.inl
+	"type_vec4_sse2.inl"
+	"type_vec4_avx.inl"
+	"type_vec4_avx2.inl"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\type_vec4_sse2.inl
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\type_vec4_avx.inl
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\type_vec4_avx2.inl
+
+1420280585 d:\lightestimate\sg_demo\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat2x2.inl
+
+1420280585 d:\lightestimate\sg_demo\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat2x3.inl
+
+1420280585 d:\lightestimate\sg_demo\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat2x4.inl
+
+1420280585 d:\lightestimate\sg_demo\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat3x2.inl
+
+1420280585 d:\lightestimate\sg_demo\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat3x3.inl
+
+1420280585 d:\lightestimate\sg_demo\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat3x4.inl
+
+1420280585 d:\lightestimate\sg_demo\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat4x2.inl
+
+1420280585 d:\lightestimate\sg_demo\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat4x3.inl
+
+1420280585 d:\lightestimate\sg_demo\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_mat4x4.inl
+
+1420280585 d:\lightestimate\sg_demo\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1424001528 d:\lightestimate\sg_demo\include\glm\detail\type_vec1.inl
+
+1420280585 d:\lightestimate\sg_demo\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\func_vector_relational.inl
+	<limits>
+
+1420280585 d:\lightestimate\sg_demo\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1423994623 d:\lightestimate\sg_demo\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1420280585 d:\lightestimate\sg_demo\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1423516826 d:\lightestimate\sg_demo\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1423516826 d:\lightestimate\sg_demo\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\type_half.inl
+
+1420280585 d:\lightestimate\sg_demo\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1420280585 d:\lightestimate\sg_demo\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\types.h
+	<sys/types.h>
+	<memory.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\defs.h
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\compiler\pushpack1.h
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\compiler\poppack1.h
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\matrix4x4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\quaternion.h
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\color4.inl
+	"color4.h"
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+	<math.h>
+
+1534606864 d:\lightestimate\sg_demo\include\shader.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<GL/glew.h>
+	<glm/glm.hpp>
+
+1544429946 source:d:\lightestimate\sg_demo\src\model.cpp
+	"Model.h"
+
+1540378210 d:\lightestimate\sg_demo\include\model.h
+	<map>
+	<stb_image.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"Mesh.h"
+
+1534516416 d:\lightestimate\sg_demo\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\config.h
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\mesh.h
+	"types.h"
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\light.h
+	"types.h"
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\camera.h
+	"types.h"
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\material.inl
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<string>
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<wchar.h>
+
+1402765209 d:\lightestimate\sg_demo\include\assimp\postprocess.h
+	"types.h"
+
+1534523666 source:d:\lightestimate\sg_demo\src\shader.cpp
+	"Shader.h"
+
+1534522290 source:d:\lightestimate\sg_demo\src\stb_image.cpp
+	"stb_image.h"
+
+1597328856 source:d:\lightestimate\sg_demo\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<windows.h>
+	<algorithm>
+	<random>
+	<vector>
+	"ErEnvmap.h"
+	"Model.h"
+	"stb_image_write.h"
+
+1555371630 d:\lightestimate\sg_demo\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1451334827 d:\lightestimate\sg_demo\include\gl\glcorearb.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1451334827 d:\lightestimate\sg_demo\include\gl\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1535357358 d:\lightestimate\sg_demo\include\erenvmap.h
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/constants.hpp>
+	"Shader.h"
+	"stb_image.h"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1420280585 d:\lightestimate\sg_demo\include\glm\gtc\constants.inl
+	<limits>
+
+1420829383 d:\lightestimate\sg_demo\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1536552758 d:\lightestimate\sg_demo\include\stb_image_write.h
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1536552811 source:d:\lightestimate\sg_demo\src\stb_image_write.cpp
+	"stb_image_write.h"
+
+1599363552 source:f:\lightestimate\sg_demo\src\mesh.cpp
+	"Mesh.h"
+
+1599363550 f:\lightestimate\sg_demo\include\mesh.h
+	<stddef.h>
+	<vector>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<assimp/types.h>
+	"Shader.h"
+
+1599363550 f:\lightestimate\sg_demo\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1599363550 f:\lightestimate\sg_demo\include\gl\glu.h
+	<GL/gl.h>
+
+1599363550 f:\lightestimate\sg_demo\include\gl\gl.h
+	<windows.h>
+	<stddef.h>
+
+1599363550 f:\lightestimate\sg_demo\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1599363550 f:\lightestimate\sg_demo\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\precision.hpp
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\_swizzle.hpp
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\_swizzle_func.hpp
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_vec2.inl
+
+1599363550 f:\lightestimate\sg_demo\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_vec3.inl
+
+1599363550 f:\lightestimate\sg_demo\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_vec4.inl
+	"type_vec4_sse2.inl"
+	"type_vec4_avx.inl"
+	"type_vec4_avx2.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_vec4_sse2.inl
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_vec4_avx.inl
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_vec4_avx2.inl
+
+1599363550 f:\lightestimate\sg_demo\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat2x2.inl
+
+1599363550 f:\lightestimate\sg_demo\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat2x3.inl
+
+1599363550 f:\lightestimate\sg_demo\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat2x4.inl
+
+1599363550 f:\lightestimate\sg_demo\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat3x2.inl
+
+1599363550 f:\lightestimate\sg_demo\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat3x3.inl
+
+1599363550 f:\lightestimate\sg_demo\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat3x4.inl
+
+1599363550 f:\lightestimate\sg_demo\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat4x2.inl
+
+1599363550 f:\lightestimate\sg_demo\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat4x3.inl
+
+1599363550 f:\lightestimate\sg_demo\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_mat4x4.inl
+
+1599363550 f:\lightestimate\sg_demo\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_vec1.inl
+
+1599363550 f:\lightestimate\sg_demo\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\func_vector_relational.inl
+	<limits>
+
+1599363550 f:\lightestimate\sg_demo\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1599363550 f:\lightestimate\sg_demo\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\type_half.inl
+
+1599363550 f:\lightestimate\sg_demo\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1599363550 f:\lightestimate\sg_demo\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\types.h
+	<sys/types.h>
+	<memory.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\defs.h
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\compiler\pushpack1.h
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\compiler\poppack1.h
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\matrix4x4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\quaternion.h
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\color4.inl
+	"color4.h"
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+	<math.h>
+
+1599363550 f:\lightestimate\sg_demo\include\shader.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<GL/glew.h>
+	<glm/glm.hpp>
+
+1599363552 source:f:\lightestimate\sg_demo\src\model.cpp
+	"Model.h"
+
+1599363550 f:\lightestimate\sg_demo\include\model.h
+	<map>
+	<stb_image.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"Mesh.h"
+
+1599363550 f:\lightestimate\sg_demo\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\config.h
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\mesh.h
+	"types.h"
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\light.h
+	"types.h"
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\camera.h
+	"types.h"
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\material.inl
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<string>
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<wchar.h>
+
+1599363550 f:\lightestimate\sg_demo\include\assimp\postprocess.h
+	"types.h"
+
+1604309114 source:f:\lightestimate\sg_demo\src\shader.cpp
+	"Shader.h"
+
+1599363552 source:f:\lightestimate\sg_demo\src\stb_image.cpp
+	"stb_image.h"
+
+1599363552 source:f:\lightestimate\sg_demo\src\stb_image_write.cpp
+	"stb_image_write.h"
+
+1599363550 f:\lightestimate\sg_demo\include\stb_image_write.h
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+

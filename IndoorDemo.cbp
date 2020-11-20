@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="IndoorDemo" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/IndoorDemo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add library="../../learnGL/glfw-3.3/lib/libglfw3.a" />
+					<Add directory="assimp-3.1.1/lib" />
+					<Add directory="glew-1.11.0/lib" />
+					<Add directory="glfw-3.3/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/IndoorDemo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/glfw-3.2.1/include" />
+			<Add directory="C:/glew-2.1.0/include" />
+			<Add directory="C:/glm" />
+			<Add directory="C:/assimp-4.1.0/include" />
+		</Compiler>
+		<Linker>
+			<Add library="glew32" />
+			<Add library="glfw3dll" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="gdi32" />
+			<Add library="assimp" />
+			<Add directory="C:/glfw-3.2.1/lib-mingw" />
+			<Add directory="C:/glew-2.1.0/lib" />
+			<Add directory="C:/assimp-4.1.0/bin" />
+		</Linker>
+		<Unit filename="include/Mesh.h" />
+		<Unit filename="include/Model.h" />
+		<Unit filename="include/Shader.h" />
+		<Unit filename="include/stb_image.h" />
+		<Unit filename="include/stb_image_write.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="shader/geometry.fs" />
+		<Unit filename="shader/geometry.vs" />
+		<Unit filename="shader/lighting.fs" />
+		<Unit filename="shader/lighting.vs" />
+		<Unit filename="shader/occ.fs" />
+		<Unit filename="shader/shadowmap.fs" />
+		<Unit filename="shader/shadowmap.vs" />
+		<Unit filename="shader/ssao.fs" />
+		<Unit filename="shader/ssao.vs" />
+		<Unit filename="shader/ssaoblur.fs" />
+		<Unit filename="src/Mesh.cpp" />
+		<Unit filename="src/Model.cpp" />
+		<Unit filename="src/Shader.cpp" />
+		<Unit filename="src/stb_image.cpp" />
+		<Unit filename="src/stb_image_write.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
